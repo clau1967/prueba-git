@@ -1,2 +1,1 @@
-Hola Claudia, probando Git con SSH 🚀
-Segundo commit: agregando otra línea de prueba
+Hola Claudia desde Git y GitHub 🚀
